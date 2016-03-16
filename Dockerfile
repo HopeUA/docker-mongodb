@@ -2,7 +2,7 @@ FROM hope/base
 
 MAINTAINER Sergey Sadovoi <sergey@hope.ua>
 
-ENV MONGO_VERSION 3.2.3
+ENV MONGO_VERSION 3.2.4
 
 # pub   4096R/EA312927 2015-10-09 [expires: 2017-10-08]
 #       Key fingerprint = 42F3 E95A 2C4F 0827 9C49  60AD D68F A50F EA31 2927
